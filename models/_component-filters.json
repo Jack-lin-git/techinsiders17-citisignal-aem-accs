@@ -8,7 +8,7 @@
   {
     "id": "columns-main",
     "components": [
-      "columns-section","fiberoffer"
+      "columns-section"
     ]
   },
   {
